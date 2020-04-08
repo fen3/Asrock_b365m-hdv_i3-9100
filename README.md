@@ -1,4 +1,4 @@
-# Asrock_b365m-hdv_i5-9400_rx-570
+# Asrock_b365m-hdv_i3-9100
 
 MacOS 10.15.2 Catalina 
 
@@ -6,13 +6,11 @@ Hardware:
 
 ASRock B365M-HDV
 
-Intel i5-9400
+Intel i3-9100
 
-XFX RS XXX Edition Radeon RX 570
+HP S700 128G SSD
 
-SAMSUNG 850 EVO 500GB SATA SSD
-
-2x G.SKILL Aegis 16GB F4-2666C19S-16GIS
+2x CUSO 16GB 2666
 
 I have not tested NVME or the M.2 slot and my custom USB Port Limit patch (USBPorts.kext) probably disables it's internal USB Port.
 
